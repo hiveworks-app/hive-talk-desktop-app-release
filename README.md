@@ -1,0 +1,5 @@
+# HIVETALK DESKTOP APP RELEASE VERSION MANAGEMENT
+
+### Latest Version : v0.0.1
+
+- **v0.0.1** : 2026-09-07
